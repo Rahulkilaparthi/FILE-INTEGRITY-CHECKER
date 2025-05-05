@@ -1,3 +1,13 @@
+# INTERACTIVE-QUIZ-APPLICATION 
+
+*COMPANY*: CODTECH IT SOLUTIONS 
+*NAME*: Kilaparthi Rahul
+*INTERN ID*: :CT06DA36
+*DOMAIN*:  Cyber Security & Ethical Hacking
+*DURATION*: 6 WEEEKS 
+*MENTOR*: NEELA SANTOSH
+
+
 # File Integrity Checker
 
 A Python tool to monitor changes in files by calculating and comparing hash values. This tool helps ensure file integrity by detecting any modifications, additions, or deletions in a specified directory.
