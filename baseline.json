@@ -1,0 +1,17 @@
+{
+    "C:\\Users\\rahul\\OneDrive\\Desktop\\projects\\CT intrenship _projects\\Rahul_projects\\file_integrity_checker\\test_files\\sample1.txt": {
+        "hash": "372fe1bbad77e7b60d518900cc069d91dfd93453c94ad75a98fa78528510fe6f",
+        "last_modified": 1746421388.3610492,
+        "timestamp": "2025-05-05T10:33:59.779706"
+    },
+    "C:\\Users\\rahul\\OneDrive\\Desktop\\projects\\CT intrenship _projects\\Rahul_projects\\file_integrity_checker\\test_files\\sample2.txt": {
+        "hash": "c88b05450f76cf5e6b9126ed31c023c82185ec01d5a6146cde11d565251ab805",
+        "last_modified": 1746421391.4509099,
+        "timestamp": "2025-05-05T10:33:59.779706"
+    },
+    "C:\\Users\\rahul\\OneDrive\\Desktop\\projects\\CT intrenship _projects\\Rahul_projects\\file_integrity_checker\\test_files\\sample3.txt": {
+        "hash": "de2431b64ae8b46651f76f6008a6a39bf10c72eb16a66475b05cdf8b04f75d93",
+        "last_modified": 1746421395.011232,
+        "timestamp": "2025-05-05T10:33:59.779706"
+    }
+}
