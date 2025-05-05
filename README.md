@@ -1,10 +1,15 @@
 # INTERACTIVE-QUIZ-APPLICATION 
 
 *COMPANY*: CODTECH IT SOLUTIONS 
+
 *NAME*: Kilaparthi Rahul
+
 *INTERN ID*: :CT06DA36
+
 *DOMAIN*:  Cyber Security & Ethical Hacking
+
 *DURATION*: 6 WEEEKS 
+
 *MENTOR*: NEELA SANTOSH
 
 
@@ -72,4 +77,9 @@ The tool provides three options:
 
 - The tool uses cryptographic hash functions (SHA-256) for reliable file integrity checking
 - Baseline data is stored locally and can be backed up
-- The tool does not modify any monitored files 
+- The tool does not modify any monitored files
+
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/d9cb08e8-d534-4dd3-b2d1-1a31f854f42e)
