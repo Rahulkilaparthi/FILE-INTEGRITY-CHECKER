@@ -19,10 +19,7 @@ A Python tool to monitor changes in files by calculating and comparing hash valu
 ## Installation
 
 1. Clone or download this repository
-2. Navigate to the project directory:
-   ```bash
-   cd file_integrity_checker
-   ```
+
 3. Make the script executable:
    ```bash
    chmod +x file_monitor.py
